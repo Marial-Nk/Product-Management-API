@@ -54,6 +54,7 @@ Ce projet utilise SQLite comme base de données pour stocker les informations su
 Une fois le serveur en cours d'exécution, vous pouvez accéder à l'API à l'adresse `http://127.0.0.1:8000/api/`. Utilisez un outil comme Postman ou cURL pour interagir avec les endpoints de l'API.
 
 ## API Endpoints
+http://127.0.0.1:8000/api/swagger
 
 ### Produits
 
